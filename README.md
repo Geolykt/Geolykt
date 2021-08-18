@@ -1,5 +1,3 @@
-**Note: I am currently (from July 26th 2021) semi off-grid for about 4 weeks. Don't expect a speedy response from me, or any response at all actually. I will still be reachable from IRC as Geolykt-Alt on esper and as Geol on spiogt irc. Most other ways of communicating with me should not be considered viable during this time.**
-
 I am known on the wider ranges of the internet as Geolykt or Geol. I am primarily a java developer in my spare time where I work with Minecraft-related projects, mostly serverside with Bukkit. I am also a pioneer in Galimulator modding and do quite a lot of work there. I am also present on many minecraft-related IRC channels.
 
 I currently actively develop:
