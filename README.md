@@ -2,13 +2,12 @@ I am known on the wider ranges of the internet as Geolykt or Geol. I am primaril
 
 I currently actively develop:
  - [The Starloader API](https://github.com/Starloader-project/Starloader-API)
- - [Starloader's deobfuscator - Sl-Deobf](https://github.com/Starloader-project/Sl-deobf)
  - [Starloader's Brachyura fork](https://github.com/Starloader-project/slbrachyura)
 
 I maintain, but don't actively develop:
  - [EnchantmentsPlus](https://github.com/Geolykt/EnchantmentsPlus)
- - [Presence](https://github.com/Geolykt/Presence)
  - [The Starloader Launcher](https://github.com/Starloader-project/Starloader)
+ - [Starloader's deobfuscator - Sl-Deobf](https://github.com/Starloader-project/Sl-deobf)
 
 I work on all of my stuff voluntarily, please do not expect that I continue to work on these projects.
 However I also do not accept anything in return (outside of contributions and kind words),
