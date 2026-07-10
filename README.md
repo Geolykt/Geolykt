@@ -6,14 +6,15 @@ I am mainly focused on modding Java video games, though the focus is mostly on w
 
 I currently actively develop:
  - [The Starloader Launcher](https://github.com/stianloader/Starloader)
- - [SLAPI, a mod compatibility and abstraction layer for Galimulator](https://github.com/stianloader/Starloader-API)
  - [Micromixin, a reimplementation of Sponge's Mixin framework](https://github.com/stianloader/Micromixin)
- - [GslStarplane](https://github.com/stianloader/GslStarplane)
- - [StarCellShading, a mod for galimulator that overhauls star rendering logic](https://github.com/Geolykt/StarCellShading)
- - [Faststar, a galimulator mod focused on performance](https://github.com/Geolykt/FastStar)
+ - [jXKBWayland, a low-level text input handling library (on codeberg)](https://codeberg.org/stianloader/jxkbwayland)
 
 I maintain, but don't actively develop:
  - [Picoresolve, a reimplementation of the Maven Artifact Resolver](https://github.com/stianloader/PicoResolve)
+ - [GslStarplane](https://github.com/stianloader/GslStarplane)
+ - [SLAPI, a mod compatibility and abstraction layer for Galimulator](https://github.com/stianloader/Starloader-API)
+ - [Faststar, a galimulator mod focused on performance](https://github.com/Geolykt/FastStar)
+ - [StarCellShading, a mod for galimulator that overhauls star rendering logic](https://github.com/Geolykt/StarCellShading)
 
 Stagnant projects (these projects have been out of rotation for a long time now, but aren't actually abandonned):
  - [stianloader-deobf (on codeberg)](https://codeberg.org/stianloader/stianloader-deobf)
